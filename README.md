@@ -4,7 +4,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,git,kubernetes,docker,aws,gitlab,hibernate,idea,react,bootstrap,ai" />
   </a>
-</p>
+ </p>
+ 
+ ![jsFacled's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsFacled)
+
+
 
 <!--
 **jsFacled/jsFacled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
