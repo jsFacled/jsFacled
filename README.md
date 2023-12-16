@@ -1,4 +1,5 @@
 ### Hi there 👋 - Hola!! Soy Elias
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,bootstrap,docker,git,gitlab,hibernate, idea, ai, java, kubernetes, linkedin, linux)](https://skillicons.dev)
 
 <!--
 **jsFacled/jsFacled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
