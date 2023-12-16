@@ -6,7 +6,7 @@
   </a>
  </p>
  
- ![jsFacled's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsFacled)
+ ![jsFacled's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsFacled&show_icons=true&theme=radical)
 
 
 
