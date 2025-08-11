@@ -4,7 +4,7 @@ Java Professional Tech Developer
 <p>My Skills:<p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,vaadin,git,kubernetes,docker,aws,gitlab,hibernate,idea,react,bootstrap,ai" />
+    <img src="https://skillicons.dev/icons?i=java,git,kubernetes,docker,aws,gitlab,hibernate,idea,react,bootstrap,ai" />
   </a>
  </p>
  
