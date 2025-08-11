@@ -10,6 +10,7 @@ Java Professional Tech Developer
  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vaadin/vaadin-original.svg" alt="Vaadin" width="40" height="40"/>
 </p>
+
  ![jsFacled's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsFacled&show_icons=true&theme=radical)
 
 
